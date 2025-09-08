@@ -3,4 +3,3 @@ def check_vowels():
     for v in "aeiou":
         contiene = v in vocal.lower()
         print(f"Contiene {v}: {contiene}")
-check_vowels()
